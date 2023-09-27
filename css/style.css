@@ -19,3 +19,27 @@ h1.text {
     font-size: 75px;
 }
 
+#recipes {
+    font-size: 50px;
+    height: 50px;
+
+
+}
+
+div {
+    font-size: 30px;
+   
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+  }
+
+ol {
+    display: inline-block;
+    text-align: left;
+  }
+
+
